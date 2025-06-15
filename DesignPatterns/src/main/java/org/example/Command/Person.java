@@ -10,5 +10,4 @@ public class Person {
         Command command2 = new OffCommand(tv);
         rc.pressButton(command2);
     }
-
 }
